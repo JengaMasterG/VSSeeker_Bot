@@ -694,4 +694,4 @@ async def set_access_code(ctx, access_code_old = "", access_code = ""):
             await bot.say("It appears that ID isn't registered in the tournament log.")
 
 
-bot.run("NDA5Njk5MDg4MzA5OTQ0MzIx.DhLRxg.6CtuxRl1SZ-tgmwkJCOCc0IkQr4")
+bot.run("insert unique bot token here")
